@@ -12,3 +12,8 @@ have a reliable way to refresh my memory about something I read once.
 
 I've been doing one repo per course when following along with courses, but this
 is simply unsustainable with blogposts, since there are so many.
+
+Most of these are examples where I worked through some exercises in a blogpost
+or article and wanted to save them.  In some instances, I just made code repos
+into submodules (assertj-examples), where I liked the examples enough as is not
+to really modify them or anything.
